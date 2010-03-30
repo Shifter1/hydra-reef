@@ -1,0 +1,20 @@
+[Eagle]
+Version="05 06 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-5.6.0/lbr/_allyourbase.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="22 29 750 877"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1200"
+Window="Win_1"
